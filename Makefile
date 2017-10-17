@@ -11,5 +11,4 @@ doc:
 	@#topkg doc
 
 clean:
-	-rm -R _build
-	-rm octavius.install
+	jbuilder clean
