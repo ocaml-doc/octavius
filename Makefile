@@ -4,7 +4,7 @@
 .PHONY: build doc clean
 
 build:
-	jbuilder build -j16
+	jbuilder build --dev -j16
 
 doc:
 	@echo "waiting for jbuilder odoc support"

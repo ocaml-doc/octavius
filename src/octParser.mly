@@ -1,6 +1,6 @@
 %{
 open OctCommon
-open OctTypes
+open! OctTypes
 open OctErrors
 
 (* Convert lexing position into error position *)

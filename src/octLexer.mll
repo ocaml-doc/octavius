@@ -2,7 +2,7 @@
 (** The lexer for string to build text structures. *)
 open OctCommon
 open OctTypes
-open OctParser
+open! OctParser
 open OctErrors
 open Lexing
 

@@ -5,4 +5,5 @@
 
 (library
  ((name octavius)
-  (public_name octavius)))
+  (public_name octavius)
+  (flags (:standard -w +A-4-42))))
