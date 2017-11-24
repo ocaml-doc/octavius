@@ -1,3 +1,8 @@
+v1.2.0
+------
+
+- Follow odoc evolution.
+
 v1.1.0
 ------
 
