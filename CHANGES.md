@@ -1,3 +1,8 @@
+v1.2.1
+------
+
+- Avoid using `Location.report_error`, which is removed in OCaml 4.08.
+
 v1.2.0
 ------
 
