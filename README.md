@@ -1,6 +1,6 @@
 Octavius — ocamldoc comment syntax parser
 -----------------------------------------
-%%VERSION%%
+v1.2.1
 
 Octavius is a library to parse the `ocamldoc` comment syntax.
 
