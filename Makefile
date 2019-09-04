@@ -4,12 +4,10 @@
 .PHONY: build doc clean
 
 build:
-	jbuilder build -j16
+	dune build
 
 doc:
-	@echo "waiting for jbuilder odoc support"
-	@#topkg doc
+	dune build @doc
 
 clean:
-	-rm -R _build
-	-rm octavius.install
+	dune clean
