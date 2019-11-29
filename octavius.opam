@@ -25,3 +25,5 @@ build: [
   ]
 ]
 dev-repo: "git+https://github.com/ocaml-doc/octavius.git"
+synopsis: "Ocamldoc comment syntax parser"
+description: "Octavius is a library to parse the `ocamldoc` comment syntax."
