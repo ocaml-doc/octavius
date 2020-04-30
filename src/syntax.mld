@@ -13,7 +13,7 @@ following tags have been added
 - [@inline]: will make the [include ...] line disappear from the interface and
 the content of the module (type) being included will be inserted in its place.
 - [@open]: the [include ...] line will be shown expanded initially
-- [@close]: the [include ...] line will be shown folded initially
+- [@closed]: the [include ...] line will be shown folded initially
 
 {2:references_syntax New syntax for references}
 
